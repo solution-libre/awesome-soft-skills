@@ -18,4 +18,4 @@ Awesome Soft Skills
 
 ### Contributors
 
-The list of contributors can be found at: https://github.com/solution-libre/awesome-soft-skills/graphs/contributors
+The list of contributors can be found at: <https://github.com/solution-libre/awesome-soft-skills/graphs/contributors>

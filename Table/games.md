@@ -1,6 +1,7 @@
 # Games
 
 ## Action
+
 | Game Category              | Game Example           | Soft Skills                                                  |
 |:--------------------------:|:----------------------:|:------------------------------------------------------------:|
 | Beat 'em ups               | Double Dragon          | Perseverence, Self-Control                                   |
@@ -17,13 +18,14 @@
 | Metroidvania               | Castlevania            | Perseverence                                                 |
 
 ## Adventure
+
 | Game Category           | Game Example               | Soft Skills             |
 |:-----------------------:|:--------------------------:|:-----------------------:|
 | Text adventures         | Sram                       | Creativity, Spelling    |
 | Graphic adventures      | Les Chevaliers de Baphomet | Creativity, Carefulness |
 
-
 ## Role-playing
+
 | Game Category                                   | Game Example      | Soft Skills            |
 |:-----------------------------------------------:|:-----------------:|:----------------------:|
 | Role-playing video games                        | Final Fantasy     | Patience, Perseverence |
@@ -32,6 +34,7 @@
 | Hack 'n' slash                                  | Diablo            | Data Management        |
 
 ## Simulation
+
 | Game Category                   | Game Example   | Soft Skills           |
 |:-------------------------------:|:--------------:|:---------------------:|
 | Business simulation video games | Theme Park     | Empathy               |
@@ -41,6 +44,7 @@
 | Space flight simulator games    | Star Citizen   | Patience, Cooperation |
 
 ## Strategy
+
 | Game Category                         | Game Example   | Soft Skills                                                    |
 |:-------------------------------------:|:--------------:|:--------------------------------------------------------------:|
 | 4X video games                        | Civilization   | Priorization                                                   |
@@ -53,12 +57,14 @@
 | Multiplayer online battle arena games | Fortnite       | Stress Management                                              |
 
 ## Sports
+
 | Game Category              | Game Example   | Soft Skills    |
 |:--------------------------:|:--------------:|:--------------:|
 | Team sport video games     | FIFA           | Vision, Timing |
 | Car simulation video games | Formula 1      | Focus          |
 
 ## Casual
+
 | Game Category      | Game Example | Soft Skills         |
 |:------------------:|:------------:|:-------------------:|
 | Party video games  |              |                     |
